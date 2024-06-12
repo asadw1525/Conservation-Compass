@@ -1,14 +1,14 @@
 # Conservation-Compass
 Team members:
-1.Soumil Mukhopadhyay(Team Leader)
+1.Mohd Asad
 
-2.Kartikeya Ruhela(Support)
+2.Soumil Mukhopadhyay(Team Leader)
 
-3.Soumil Bhattacharya
+3.Kartikeya Ruhela
 
-4.Krishita Pandey
+4.Soumil Bhattacharya
 
-5.Asad Khan
+5.Krishita Pandey
 
 classification.ejs and donate.html,index.ejs contain use of EmbeddedJS and Javascript Tensor,Javascript.
 
